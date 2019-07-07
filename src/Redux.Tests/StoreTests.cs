@@ -1,6 +1,4 @@
-﻿using NUnit.Core;
-using NUnit.Framework;
-using Redux.Reactive;
+﻿using NUnit.Framework;
 using System;
 using System.Linq;
 using System.Reactive.Linq;
