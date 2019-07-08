@@ -32,11 +32,12 @@
     <file src="..\src\Redux.DevTools.WPF\bin\$configuration$\Redux.DevTools.WPF.dll" target="lib\net45\Redux.DevTools.WPF.dll" />
 
     <!-- UWP -->
-    <file src="..\src\Redux.DevTools\bin\$configuration$\netstandard2.0\Redux.DevTools.dll" target="lib\win81\Redux.DevTools.dll" />
-    <file src="..\src\Redux.DevTools.Universal\bin\$configuration$\Redux.DevTools.Universal.dll" target="lib\win81\Redux.DevTools.Universal.dll" />
-    <file src="..\src\Redux.DevTools.Universal\bin\$configuration$\Redux.DevTools.Universal.pri" target="lib\win81\Redux.DevTools.Universal.pri" />
-    <file src="..\src\Redux.DevTools.Universal\bin\$configuration$\Redux.DevTools.Universal.xr.xml" target="lib\win81\Redux.DevTools.Universal\Redux.DevTools.Universal.xr.xml" />
-    <file src="..\src\Redux.DevTools.Universal\Properties\Redux.DevTools.Universal.rd.xml" target="lib\win81\Redux.DevTools.Universal\Properties\Redux.DevTools.Universal.rd.xml" />
+    <file src="..\src\Redux.DevTools\bin\$configuration$\netstandard2.0\Redux.DevTools.dll" target="lib\uap\Redux.DevTools.dll" />
+    <file src="..\src\Redux.DevTools.Universal\bin\$configuration$\Redux.DevTools.Universal.dll" target="lib\uap\Redux.DevTools.Universal.dll" />
+    <file src="..\src\Redux.DevTools.Universal\bin\$configuration$\Redux.DevTools.Universal.pri" target="lib\uap\Redux.DevTools.Universal.pri" />
+    <file src="..\src\Redux.DevTools.Universal\bin\$configuration$\Redux.DevTools.Universal.xr.xml" target="lib\uap\Redux.DevTools.Universal\Redux.DevTools.Universal.xr.xml" />
+    <file src="..\src\Redux.DevTools.Universal\bin\$configuration$\TimeMachine.xbf" target="lib\uap\Redux.DevTools.Universal\TimeMachine.xbf" />
+    <file src="..\src\Redux.DevTools.Universal\Properties\Redux.DevTools.Universal.rd.xml" target="lib\uap\Redux.DevTools.Universal\Properties\Redux.DevTools.Universal.rd.xml" />
   
   </files>
 
