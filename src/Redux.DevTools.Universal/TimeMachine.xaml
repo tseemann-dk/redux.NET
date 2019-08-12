@@ -19,8 +19,7 @@
             VerticalAlignment="Stretch"/>
         
         <Grid 
-            Width="300"
-            HorizontalAlignment="Right"
+            HorizontalAlignment="Stretch"
             Background="#2A2F3A">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
