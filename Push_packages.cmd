@@ -6,7 +6,7 @@ set apikey=51601496-2449-4ceb-ac2d-dd3c9d5a61bf
 set nuspecs=nuget
 set output=nuget
 set version=2.0.1
-set tools_version=0.3.2
+set tools_version=0.3.3
 set config=Debug
 
 rem -- PREPARE
